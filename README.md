@@ -1,15 +1,15 @@
 ## Hi there 👋
 # Hi, I'm Rhen Rhen 👋  
 
-🎓 **BS Information Technology Student**  
+ **BS Information Technology Student**  
 💻 **Front-End Web Developer (React / TypeScript)**  
-📍 San Pablo City, Laguna, Philippines  
+ San Pablo City, Laguna, Philippines  
 
 I’m a motivated IT student and aspiring front-end web developer who enjoys building modern, responsive, and user-friendly web applications. I focus on clean UI, smooth user experience, and continuously improving my skills through hands-on projects.
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 - Build responsive and modern web interfaces  
 - Turn UI/UX designs into functional web apps  
 - Improve website performance and user experience  
@@ -38,9 +38,9 @@ I’m a motivated IT student and aspiring front-end web developer who enjoys bui
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### ☕ Saling Café Website *(Latest Project)*
+###  Saling Café Website *(Latest Project)*
 **Tech:** React, TypeScript, Tailwind CSS  
 A modern and responsive landing page built for a coffee shop.  
 Focused on clean UI, mobile-first design, smooth user experience, and performance optimization to effectively showcase the brand and menu.
@@ -56,7 +56,7 @@ Focused on clean UI, mobile-first design, smooth user experience, and performanc
 
 ---
 
-## 🎯 Currently Learning
+## Currently Learning
 - Authentication (Login / Signup)
 - Full-stack workflows
 - Better backend integration
@@ -64,11 +64,11 @@ Focused on clean UI, mobile-first design, smooth user experience, and performanc
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: **lumborhenrhena@gmail.com**  
-- 🌐 Portfolio: **https://rhenrhenalumbo.vercel.app**  
-- 🐙 GitHub: **https://github.com/rrlWakai**
+##  Let’s Connect
+-  Email: **lumborhenrhena@gmail.com**  
+-  Portfolio: **https://rhenrhenalumbo.vercel.app**  
+-  GitHub: **https://github.com/rrlWakai**
 
 ---
 
-⭐ *I’m open to internships, junior front-end roles, and real-world project experience.*
+ *I’m open to internships, junior front-end roles, and real-world project experience.*
