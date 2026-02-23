@@ -1,74 +1,115 @@
-## Hi there 👋
-# Hi, I'm Rhen Rhen 👋  
+Rhen Rhen Lumbo
 
- **BS Information Technology Student**  
-💻 **Front-End Web Developer (React / TypeScript)**  
- San Pablo City, Laguna, Philippines  
+Web Developer & Digital Experience Designer
+San Pablo City, Laguna, Philippines
 
-I’m a motivated IT student and aspiring front-end web developer who enjoys building modern, responsive, and user-friendly web applications. I focus on clean UI, smooth user experience, and continuously improving my skills through hands-on projects.
+I help businesses build modern, professional websites that attract customers, build trust, and increase inquiries.
 
----
+I specialize in clean, high-end web design combined with smooth user experience and performance optimization. My goal is simple: create websites that not only look premium, but also work effectively for your business.
 
-##  What I Do
-- Build responsive and modern web interfaces  
-- Turn UI/UX designs into functional web apps  
-- Improve website performance and user experience  
-- Learn full-stack fundamentals step by step  
+What I Offer
 
----
+I build websites that:
 
-## 🛠 Tech Stack
-**Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- TypeScript
-- React (Vite)
-- Tailwind CSS
-- Framer Motion
+• Clearly communicate your brand and services
+• Look professional and trustworthy
+• Work perfectly on mobile, tablet, and desktop
+• Load fast and feel smooth
+• Are easy for customers to navigate
 
-**Backend (Basic)**
-- Node.js
-- Express.js
-- MongoDB
+Whether you're a café, clinic, resort, or small business, I create websites that turn visitors into inquiries.
 
-**Tools**
-- Git & GitHub
-- Vercel
-- Postman
-- Figma
+My Approach
 
----
+I don’t just design pages.
 
-##  Projects
+I focus on:
 
-###  Saling Café Website *(Latest Project)*
-**Tech:** React, TypeScript, Tailwind CSS  
-A modern and responsive landing page built for a coffee shop.  
-Focused on clean UI, mobile-first design, smooth user experience, and performance optimization to effectively showcase the brand and menu.
+• Clean structure and clear messaging
+• Strategic layout that guides users
+• Mobile-first responsive design
+• Performance and optimization
+• Long-term scalability
 
----
+Every project is built with attention to detail and modern web standards.
 
-### Other Projects
-- **Portfolio Website** – Modern personal portfolio built with React, TypeScript, and Tailwind  
-- **Clinic / Booking Concept** – UI-focused consultation & booking flow  
-- **Business Landing Pages** – High-end landing pages for cafes and clinics  
+Featured Project
+Saling Café – Premium Coffee Shop Website
 
-👉 Check my repositories below for live demos and source code.
+Tech Used: React, TypeScript, Tailwind CSS
 
----
+A modern, brand-focused website designed to elevate the online presence of a coffee shop.
 
-## Currently Learning
-- Authentication (Login / Signup)
-- Full-stack workflows
-- Better backend integration
-- UI/UX design systems in Figma
+Key Highlights:
 
----
+• Elegant and minimal layout
+• Mobile-first responsive design
+• Smooth micro-animations for premium feel
+• Structured menu presentation
+• Clear call-to-action sections
+• Optimized for fast loading speed
 
-##  Let’s Connect
--  Email: **lumborhenrhena@gmail.com**  
--  Portfolio: **https://rhenrhenalumbo.vercel.app**  
--  GitHub: **https://github.com/rrlWakai**
+The goal of this project was to create a digital space that reflects the café’s atmosphere while making it easy for customers to explore the menu and connect with the business.
 
----
+This project demonstrates my ability to create high-end landing pages that feel professional, clean, and conversion-focused.
 
- *I’m open to internships, junior front-end roles, and real-world project experience.*
+Services
+
+• Business & Brand Websites
+• Landing Pages for Promotions
+• Website Redesign & UI Improvement
+• Booking / Inquiry Form Integration
+• Performance & UX Optimization
+
+Tech Stack
+
+Frontend Development
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+Modern JavaScript
+
+Backend (Basic Integration)
+
+Node.js
+
+Express
+
+MongoDB
+
+Tools
+
+Git & GitHub
+
+Vercel Deployment
+
+Postman
+
+Figma
+
+Why Work With Me?
+
+• I focus on clarity, not clutter
+• I design with the user in mind
+• I prioritize performance and responsiveness
+• I communicate clearly and professionally
+• I treat every project as a brand investment
+
+Let’s Build Something Professional
+
+Email: lumborhenrhena@gmail.com
+
+Portfolio: https://rhenrhenalumbo.vercel.app
+
+GitHub: https://github.com/rrlWakai
+
+I’m open to working with:
+• Cafés
+• Resorts & Hotels
+• Clinics
+• Small to Medium Businesses
+• Personal Brands
